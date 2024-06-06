@@ -15,4 +15,562 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: echo "🍏 This job's status is ${{ job.status }}."Google Translate
+
+English - Detected
+
+English
+
+Spanish
+
+French
+
+English
+
+Spanish
+
+Arabic
+<!DOCTYPE HTML>
+<html lang="en" >
+
+
+
+
+
+
+<head>
+    
+
+
+
+<meta name="shc-search-version" content="v2"/>
+
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-regular/Source-Sans-Pro-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-300/Source-Sans-Pro-300.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-600/Source-Sans-Pro-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-700/Source-Sans-Pro-700.woff2" as="font" type="font/woff2" crossorigin>
+
+<link rel="preconnect" href="https://sp1004f3b2.guided.ss-omtrdc.net"> 
+<link rel="preconnect" href="https://smetrics.stanfordhealthcare.org">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.youtube.com">
+<link rel="preconnect" href="https://s.ytimg.com">
+<link rel="preconnect" href="https://adservice.google.com">
+<link rel="preconnect" href="https://device.4seeresults.com">
+<link rel="preconnect" href="https://assets.adobedtm.com">
+<script>
+function shcDOMContentLoaded(fn) {
+  if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(fn, 1); } else { document.addEventListener("DOMContentLoaded", fn); }
+}
+</script>
+    
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PND43V');
+  </script>
+  <!-- End Google Tag Manager -->
+
+    <!-- include all the meta tags that need to be on all pages here -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" type="image/gif" href="/etc/clientlibs/shc/main/img/favicon.gif"/>
+    
+
+
+
+
+    <script>CQURLInfo={"requestPath":"/content/shc/en/second-opinion/general-form","extension":"html","selectors":[],"systemId":"02e435de-69e3-4bfe-9250-da2816f306e4","runModes":"som,s7connect,crx3,production,nosamplecontent,publish,crx3tar"};</script>
+<link rel="stylesheet" href="/etc/clientlibs/shc/all.lc-1717540219062-lc.min.4d2b1bc689c14845a8370efdd7118126.css" type="text/css">
+
+
+    
+        <meta name="robots" content="noindex, nofollow">
+    
+
+    
+    
+        
+        
+        
+        
+        
+    
+    
+        
+        
+    
+    
+    
+
+    <meta name="sp_specialties" content="" > 
+    <meta name="sp_pageName" content="second-opinion:general-form">
+    <meta name="Language" content="en"/>
+    <meta name="Location" content="us"/>
+
+    
+    
+    
+    <meta name="sp_isPatientEd" content="false">
+
+    <!-- Disable native phone number recognition in iOS devices //-->
+    <meta name="format-detection" content="telephone=no" />
+    
+
+    <!-- perform all standard logic that needs to be on all pages here -->
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+        
+        
+                                         
+    
+
+    <!-- Override the finalTitle with authored pageTitle property, when populated -->
+    
+
+    <!-- Override finalTitle with SEO search results title, if populated -->
+    
+
+    
+        
+        
+            
+                
+                
+                
+                    <title>Get a Second Opinion | Stanford Health Care</title>
+                
+            
+        
+    
+    <!-- include all page specific meta tags in customheadlogic.jsp scripts -->
+    <!-- perform all page specific logic in customheadlogic.jsp scripts -->
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        <meta name="description" content="Learn how Stanford Health Care brings together leading-edge technology, innovative research, and world-renowned experts to meet your unique needs.">
+    
+
+    
+
+
+
+<script type="text/javascript">s_preLoad = (new Date()).getTime();</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var SHC = SHC || {};
+    var GLOBAL_SPURL_OBJECT = "//sp1004f3b2.guided.ss-omtrdc.net";
+    var HOME_PAGE_PATH = "/content/shc/en";
+    var GLOBAL_MICROSITE_SRC = "";
+    var GLOBAL_SEARCH_RESULTS_TEMPLATE = "/apps/shc/templates/searchresults";
+    var GLOBAL_LOCATIONS_TEMPLATE = "/apps/shc/templates/location";
+    var DOCTOR_DIRECTORY_PAGE = "search-results.doctors.html";
+    var DOCTOR_DIRECTORY_PATH = "/content/shc/en/search-results.doctors.html";
+</script>
+
+
+
+<script type="text/javascript">
+  var CLINIC_DIRECTORY_PATH = "/content/shc/en/search-results.clinics.html";
+  var CLINIC_DIRECTORY_PAGE = "search-results.clinic
+5,000 / 5,000
+<!DOCTYPE HTML>
+<html lang="ar">
+
+
+
+
+
+
+<الرأس>
+
+
+
+
+<meta name="shc-search-version" content="v2"/>
+
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-regular/Source-Sans-Pro-regular.woff2" as="font" type="font/woff2 "كروس أوريجين>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-300/Source-Sans-Pro-300.woff2" as="font" type="font/woff2 "كروس أوريجين>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-600/Source-Sans-Pro-600.woff2" as="font" type="font/woff2 "كروس أوريجين>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-700/Source-Sans-Pro-700.woff2" as="font" type="font/woff2 "كروس أوريجين>
+
+<link rel="preconnect" href="https://sp1004f3b2.guided.ss-omtrdc.net">
+<link rel="preconnect" href="https://smetrics.stanfordhealthcare.org">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.youtube.com">
+<link rel="preconnect" href="https://s.ytimg.com">
+<link rel="preconnect" href="https://adservice.google.com">
+<link rel="preconnect" href="https://device.4seeresults.com">
+<link rel="preconnect" href="https://assets.adobedtm.com">
+<النص البرمجي>
+الدالة shcDOMContentLoaded(fn) {
+ if (document.readyState === "Complete" || document.readyState === "interactive") { setTimeout(fn, 1); } else { document.addEventListener("DOMContentLoaded", fn); }
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!-- برنامج إدارة العلامات من Google -->
+ <النص البرمجي>
+ (وظيفة(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PND43V');
+ </script>
+ <!-- إنهاء برنامج إدارة العلامات من Google -->
+
+ <!-- قم بتضمين جميع العلامات الوصفية التي يجب أن تكون في جميع الصفحات هنا -->
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+ <meta name="viewport" content="width=device-width، المقياس الأولي=1.0، الحد الأدنى للمقياس=1.0">
+ <link rel="icon" type="image/gif" href="/etc/clientlibs/shc/main/img/favicon.gif"/>
+
+
+
+
+
+ <script>CQURLInfo={"requestPath":":/content/shc/en/ Second-opinion/general-form"، "extension": "html"، "selector":[]، "systemId": "02e435de-69e3" -4bfe-9250-da2816f306e4"، "runModes": "som،s7connect،crx3،production،nosamplecontent،publish،crx3tar"};</script>
+<link rel="stylesheet" href="/etc/clientlibs/shc/all.lc-1717540219062-lc.min.4d2b1bc689c14845a8370efdd7118126.css" type="text/css">
+
+
+
+ <meta name="robots" content="noindex, nofollow">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ < اسم التعريف = "sp_specialties" المحتوى = "" >
+ <meta name="sp_pageName" content="الرأي الثاني:النموذج العام">
+ <meta name="Language" content="en"/>
+ <meta name="Location" content="us"/>
+
+
+
+
+ <meta name="sp_isPatientEd" content="false">
+
+ <!-- تعطيل التعرف على رقم الهاتف الأصلي في أجهزة iOS //-->
+ <meta name="format-detection" content="telephone=no" />
+
+
+ <!-- تنفيذ كل المنطق القياسي الذي يجب أن يكون موجودًا في جميع الصفحات هنا -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!-- قم بتجاوز FinalTitle باستخدام خاصية pageTitle المؤلفة، عند ملؤها -->
+
+
+ <!-- تجاوز عنوان FinalTitle باستخدام عنوان نتائج بحث SEO، إذا تم ملؤه -->
+
+
+
+
+
+
+
+
+
+ <العنوان>احصل على رأي ثانٍ | ستانفورد للرعاية الصحية</title>
+
+
+
+
+ <!-- تضمين كافة العلامات الوصفية الخاصة بالصفحة في البرامج النصية customheadlogic.jsp -->
+ <!-- تنفيذ كل المنطق الخاص بالصفحة في البرامج النصية customheadlogic.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <meta name="description" content="تعرف على كيفية دمج Stanford Health Care بين التكنولوجيا الرائدة والأبحاث المبتكرة والخبراء المشهورين عالميًا لتلبية احتياجاتك الفريدة.">
+
+
+
+
+
+
+<script type="text/javascript">s_preLoad = (new Date()).getTime();</script>
+
+
+
+
+
+
+
+<نوع البرنامج النصي = "نص/جافا سكريبت">
+ فار SHC = SHC || {};
+ var GLOBAL_SPURL_OBJECT = "//sp1004f3b2.guided.ss-omtrdc.net";
+ var HOME_PAGE_PATH = "/content/shc/en";
+ var GLOBAL_MICROSITE_SRC = "";
+ var GLOBAL_SEARCH_RESULTS_TEMPLATE = "/apps/shc/templates/searchresults";
+ var GLOBAL_LOCATIONS_TEMPLATE = "/apps/shc/templates/location";
+ var DOCTOR_DIRECTORY_PAGE = "search-results.doctors.html";
+ var DOCTOR_DIRECTORY_PATH = "/content/shc/en/search-results.doctors.html";
+</script>
+
+
+
+<نوع البرنامج النصي = "نص/جافا سكريبت">
+ var CLINIC_DIRECTORY_PATH = "/content/shc/en/search-results.clinics.html";
+ var CLINIC_DIRECTORY_PAGE = "search-results.clinic
+<!DOCTYPE HTML>
+<html lang="ar">
+<alraasa>
+
+<meta name="shc-search-version" content="v2"/>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-regular/Source-Sans-Pro-regular.woff2" as="font" type="font/woff2 "krus 'uwrijin>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-300/Source-Sans-Pro-300.woff2" as="font" type="font/woff2 "krus 'uwrijin>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-600/Source-Sans-Pro-600.woff2" as="font" type="font/woff2 "krus 'uwrijin>
+<link rel="preload" href="/etc/clientlibs/shc/fonts/fonts/Source-Sans-Pro-700/Source-Sans-Pro-700.woff2" as="font" type="font/woff2 "krus 'uwrijin>
+<link rel="preconnect" href="https://sp1004f3b2.guided.ss-omtrdc.net">
+<link rel="preconnect" href="https://smetrics.stanfordhealthcare.org">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.youtube.com">
+<link rel="preconnect" href="https://s.ytimg.com">
+<link rel="preconnect" href="https://adservice.google.com">
+<link rel="preconnect" href="https://device.4seeresults.com">
+<link rel="preconnect" href="https://assets.adobedtm.com">
+<alnns albarmaji>
+aldaalat shcDOMContentLoaded(fn) {
+if (document.readyState === "Complete" || document.readyState === "interactive") { setTimeout(fn, 1); } else { document.addEventListener("DOMContentLoaded", fn); }
+}
+</script>
+
+
+
+
+
+
+
+<!-- barnamaj 'iidarat alealamat min Google -->
+<alnns albarmaji>
+(wazifatu(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PND43V');
+</script>
+<!-- 'iinha' barnamaj 'iidarat alealamat min Google -->
+<!-- qum bitadmin jamie alealamat alwasfiat alati yajib 'an takun fi jamie alsafahat huna -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+<meta name="viewport" content="width=device-width, almiqyas al'awli=1.0, alhadu al'adnaa lilmiqyasi=1.0">
+<link rel="icon" type="image/gif" href="/etc/clientlibs/shc/main/img/favicon.gif"/>
+
+<script>CQURLInfo={"requestPath":":/content/shc/en/ Second-opinion/general-form"، "extension": "html"، "selector":[]، "systemId": "02e435de-69e3" -4bfe-9250-da2816f306e4"، "runModes": "som،s7connect،crx3،production،nosamplecontent،publish،crx3tar"};</script>
+<link rel="stylesheet" href="/etc/clientlibs/shc/all.lc-1717540219062-lc.min.4d2b1bc689c14845a8370efdd7118126.css" type="text/css">
+
+<meta name="robots" content="noindex, nofollow">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+< asm altaerif = "sp_specialties" almuhtawaa = "" >
+<meta name="sp_pageName" content="alraay althaani:alnnmudhaj aleami">
+<meta name="Language" content="en"/>
+<meta name="Location" content="us"/>
+
+
+
+<meta name="sp_isPatientEd" content="false">
+<!-- taetil altaearuf ealaa raqm alhatif al'aslii fi 'ajhizat iOS //-->
+<meta name="format-detection" content="telephone=no" />
+
+<!-- tanfidh kuli almantiq alqiasii aladhi yajib 'an yakun mwjwdan fi jamie alsafahat huna -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- qum bitajawuz FinalTitle biastikhdam khasiyat pageTitle almualafati, eind malwiha -->
+
+<!-- tajawaz eunwan FinalTitle biastikhdam eunwan natayij bahth SEO، 'iidha tama malwuh -->
+
+
+
+
+
+
+
+
+<aleunwani>ahasul ealaa ray than | stanfurd lilrieayat alsihiyati</title>
+
+
+
+
+<!-- tadmin kafat alealamat alwasfiat alkhasat bialsafhat fi albaramij alnasiyat customheadlogic.jsp -->
+<!-- tanfidh kuli almantiq alkhasi bialsafhat fi albaramij alnasiyat customheadlogic.jsp -->
+
+
+
+
+
+<meta name="description" content="tieraf ealaa kayfiat damj Stanford Health Care bayn altiknulujia alraayidat wal'abhath almubtakarat walkhubara' almashhurin ealmyan litalbiat aihtiajatik alfaridati.">
+
+
+<script type="text/javascript">s_preLoad = (new Date()).getTime();</script>
+<nawe albarnamaj alnisiyi = "nsi/jafa skribt">
+far SHC = SHC || {};
+var GLOBAL_SPURL_OBJECT = "//sp1004f3b2.guided.ss-omtrdc.net";
+var HOME_PAGE_PATH = "/content/shc/en";
+var GLOBAL_MICROSITE_SRC = "";
+var GLOBAL_SEARCH_RESULTS_TEMPLATE = "/apps/shc/templates/searchresults";
+var GLOBAL_LOCATIONS_TEMPLATE = "/apps/shc/templates/location";
+var DOCTOR_DIRECTORY_PAGE = "search-results.doctors.html";
+var DOCTOR_DIRECTORY_PATH = "/content/shc/en/search-results.doctors.html";
+</script>
+<nawe albarnamaj alnisiyi = "nsi/jafa skribt">
+var CLINIC_DIRECTORY_PATH = "/content/shc/en/search-results.clinics.html";
+var CLINIC_DIRECTORY_PAGE = "search-results.clinic
+Show less
+Send feedback
+5,000 character limit. Use the arrows to translate more.
+
